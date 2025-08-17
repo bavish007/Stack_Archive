@@ -1,0 +1,10 @@
+What is Generative AI?   ---->>  https://www.nvidia.com/en-us/glossary/generative-ai/
+
+What runs ChatGPT?    ---->>  https://www.youtube.com/watch?v=Rk3nTUfRZmo
+
+Retrieval Augmented Generation Explainer ----->> https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/
+
+RAG 101: Demystifying Retrieval-Augmented Generation Pipelines   ---->> https://developer.nvidia.com/blog/rag-101-demystifying-retrieval-augmented-generation-pipelines/
+
+RAG 102: Deploying Retrieval-Augmented Generation Applications on NVIDIA GH200 Delivers Accelerated Performance ---->> https://developer.nvidia.com/blog/deploying-retrieval-augmented-generation-applications-on-nvidia-gh200-delivers-accelerated-performance/
+
